@@ -30,7 +30,7 @@ The project uses the following components:
 
 ## Circuit Diagram
 
-*(Insert the circuit diagram here or a link to the diagram)*
+![Circuit Diagram](./circuit-diagram.jpg)
 
 ## How It Works
 
